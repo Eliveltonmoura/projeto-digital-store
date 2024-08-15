@@ -8,11 +8,11 @@ import ProductListing from "../components/ProductListing";
 import Section from "../components/Section";
 
 const images = [
-    { src: '/public/product-image-1.jpg' },
-    { src: '/public/product-image-2.jpg' },
-    { src: '/public/product-image-3.jpg' },
-    { src: '/public/product-image-4.jpg' },
-    { src: '/public/product-image-5.jpg' },
+    { src: '' },
+    { src: '' },
+    { src: '' },
+    { src: '' },
+    { src: '' },
 ];
 
 const ProductView = styled.div`
@@ -97,27 +97,11 @@ const GalleryProduct = styled.div`
 
 const productsData = [
   {
-    name: 'Lacoste G80 OG Branco',
-    imagem: "https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg",
-    price: 799,
-  },
-  {
-    name: 'T-Clip Sneakers Women',
-    imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-    price: 820,
-    priceDiscount: 900
-  },
-  {
-    name: 'Lacoste G80 OG Branco',
-    imagem: "https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg",
-    price: 799,
-    priceDiscount: 600
-  },
-  {
-    name: 'T-Clip Sneakers Women',
-    imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-    price: 900,
+    name: ' teste',
+    imagem: "teste",
+    price:100 ,
   }
+  
 
 ];
 
@@ -135,27 +119,11 @@ const ProductViewPage = () => {
 
     const productsData = [
       {
-        name: 'Lacoste G80 OG Branco',
-        imagem: "https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg",
-        price: 799,
+        name: 'tênis Olympikus Eros/165 Branco',
+        imagem: "https://vulcabras.vtexassets.com/arquivos/ids/252925-1300-1300?v=637965288197900000&width=1300&height=1300&aspect=true",
+        price:"100",
       },
-      {
-        name: 'T-Clip Sneakers Women',
-        imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-        price: 820,
-        priceDiscount: 900
-      },
-      {
-        name: 'Lacoste G80 OG Branco',
-        imagem: "https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg",
-        price: 799,
-        priceDiscount: 600
-      },
-      {
-        name: 'T-Clip Sneakers Women',
-        imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-        price: 900,
-      }
+      
     
     ];
 

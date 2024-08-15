@@ -9,7 +9,7 @@ const ProductCard = ({ name, imagem, price, priceDiscount }) => {
       <img src={imagem} alt="Tenis" className="product-image" /></Link>
       
       <h5>Tênis</h5>
-      <Link to="/pagina-produto/1/tenis" style={{ textDecoration: 'none', color: 'inherit' }}><h2 className="product-name">{name}</h2></Link>
+      <Link to="" style={{ textDecoration: 'none', color: 'inherit' }}><h2 className="product-name">{name}</h2></Link>
       <div className="product-prices">
         {priceDiscount ? (
           <>

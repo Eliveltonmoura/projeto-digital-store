@@ -84,110 +84,12 @@ import styled from "styled-components";
 
       const productsData = [
         {
-          name: 'Lacoste G80 OG Branco',
-          imagem: "https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg",
+          name: 'Tênis Olympikus Eros/165 Branco',
+          imagem: "https://vulcabras.vtexassets.com/arquivos/ids/252925-1300-1300?v=637965288197900000&width=1300&height=1300&aspect=true",
           price: 799,
           priceDiscount: 900
-        },
-        {
-          name: 'T-Clip Sneakers Women',
-          imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-          price: 820,
-          priceDiscount: 900
-        },
-        {
-          name: 'Lacoste G80 OG Branco',
-          imagem: "https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg",
-          price: 799,
-          priceDiscount: 600
-        },
-        {
-          name: 'T-Clip Sneakers Women',
-          imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-          price: 900,
-        },
-        {
-          name: 'Lacoste G80 OG Branco',
-          imagem: 'https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg',
-          price: 799,
-          priceDiscount: 650
-        },
-        {
-          name: 'T-Clip Sneakers Women',
-          imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-          price: 900,
-          priceDiscount: 800
-        },
-        {
-          name: 'Lacoste G80 OG Branco',
-          imagem: "https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg",
-          price: 799,
-          priceDiscount: 720
-        },
-        {
-          name: 'T-Clip Sneakers Women',
-          imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-          price: 800,
-    
-        },
-        {
-          name: 'Lacoste G80 OG Branco',
-          imagem: "https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg",
-          price: 799,
-        },
-        {
-          name: 'T-Clip Sneakers Women',
-          imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-          price: 820,
-          priceDiscount: 900
-        },
-        {
-          name: 'Lacoste G80 OG Branco',
-          imagem: "https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg",
-          price: 799,
-          priceDiscount: 600
-        },
-        {
-          name: 'T-Clip Sneakers Women',
-          imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-          price: 900,
-        },
-        {
-          name: 'Lacoste G80 OG Branco',
-          imagem: 'https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg',
-          price: 799,
-          priceDiscount: 650
-        },
-        {
-          name: 'T-Clip Sneakers Women',
-          imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-          price: 900,
-          priceDiscount: 800
-        },
-        {
-          name: 'Lacoste G80 OG Branco',
-          imagem: "https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg",
-          price: 799,
-          priceDiscount: 720
-        },
-        {
-          name: 'T-Clip Sneakers Women',
-          imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-          price: 800,
-    
-        },
-        {
-          name: 'Lacoste G80 OG Branco',
-          imagem: "https://i.pinimg.com/736x/5e/4f/ba/5e4fbad0418293d0a95b5669c6eb2211.jpg",
-          price: 799,
-          priceDiscount: 720
-        },
-        {
-          name: 'T-Clip Sneakers Women',
-          imagem: "https://i.pinimg.com/564x/c0/88/f6/c088f68824c6384f4abc7d013734403b.jpg",
-          price: 800,
-    
-        },
+        }
+        
       
       ];
 
