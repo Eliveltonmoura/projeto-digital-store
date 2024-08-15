@@ -8,11 +8,10 @@ import ProductListing from "../components/ProductListing";
 import Section from "../components/Section";
 
 const images = [
-    { src: '/assets/dowload.jpg' },
-    { src: '/assets/dowload.jpg' },
-    { src: '/assets/dowload.jpg' },
-    { src: '/assets/dowload.jpg' },
-    { src: '/assets/dowload.jpg' },
+    { src: '/sapato2.jpg'},
+    { src: '/sapato3.jpg'},
+    { src: '/sapato4.jpg'},
+    
 ];
 
 const ProductView = styled.div`
@@ -97,9 +96,9 @@ const GalleryProduct = styled.div`
 
 const productsData = [
   {
-    name: 'tenis',
-    imagem: "/assets/dowload.jpg",
-    price: 100 ,
+    name: 'tênis Olympikus Eros/165 Branco',
+    imagem: "https://vulcabras.vtexassets.com/arquivos/ids/252925-1300-1300?v=637965288197900000&width=1300&height=1300&aspect=true",
+    price: 100
   },
 
 ];
@@ -120,12 +119,12 @@ const ProductViewPage = () => {
       {
         name: 'tênis Olympikus Eros/165 Branco',
         imagem: "https://vulcabras.vtexassets.com/arquivos/ids/252925-1300-1300?v=637965288197900000&width=1300&height=1300&aspect=true",
-        price:"100"
+        price: 170
       },
       {
         name: 'tênis Olympikus Eros/165 Branco',
         imagem: "https://vulcabras.vtexassets.com/arquivos/ids/252925-1300-1300?v=637965288197900000&width=1300&height=1300&aspect=true",
-        price:"100"
+        price: 170
       }
       
     
@@ -140,12 +139,12 @@ const ProductViewPage = () => {
             </GalleryProduct>
             </div>
               <BuyBox
-                name="sapato"
-                reference="38416711"
-                stars={4.7}
-                rating={90}
-                price={799.00}
-                priceDiscount={999.00}
+                name="tênis Olympikus Eros/165 Branco"
+                reference="3297689"
+                stars={4.6}
+                rating={99}
+                price={400.00}
+                priceDiscount={170.00}
                 description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
               >
               <h4>Tamanho</h4>
