@@ -8,11 +8,11 @@ import ProductListing from "../components/ProductListing";
 import Section from "../components/Section";
 
 const images = [
-    { src: '' },
-    { src: '' },
-    { src: '' },
-    { src: '' },
-    { src: '' },
+    { src: '/assets/dowload.jpg' },
+    { src: '/assets/dowload.jpg' },
+    { src: '/assets/dowload.jpg' },
+    { src: '/assets/dowload.jpg' },
+    { src: '/assets/dowload.jpg' },
 ];
 
 const ProductView = styled.div`
@@ -97,11 +97,10 @@ const GalleryProduct = styled.div`
 
 const productsData = [
   {
-    name: ' teste',
-    imagem: "teste",
-    price:100 ,
-  }
-  
+    name: 'tenis',
+    imagem: "/assets/dowload.jpg",
+    price: 100 ,
+  },
 
 ];
 
@@ -121,8 +120,13 @@ const ProductViewPage = () => {
       {
         name: 'tênis Olympikus Eros/165 Branco',
         imagem: "https://vulcabras.vtexassets.com/arquivos/ids/252925-1300-1300?v=637965288197900000&width=1300&height=1300&aspect=true",
-        price:"100",
+        price:"100"
       },
+      {
+        name: 'tênis Olympikus Eros/165 Branco',
+        imagem: "https://vulcabras.vtexassets.com/arquivos/ids/252925-1300-1300?v=637965288197900000&width=1300&height=1300&aspect=true",
+        price:"100"
+      }
       
     
     ];
@@ -136,7 +140,7 @@ const ProductViewPage = () => {
             </GalleryProduct>
             </div>
               <BuyBox
-                name="Lacoste G80 OG Branco"
+                name="sapato"
                 reference="38416711"
                 stars={4.7}
                 rating={90}

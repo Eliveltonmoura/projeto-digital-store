@@ -84,11 +84,11 @@ const Galleryimage = styled.div`
 `;
 
 const images = [
-  { src: 'public/home-slide-1.png' },
-  { src: 'public/home-slide-2.jpeg' },
-  { src: 'public/home-slide-3.jpeg' },
-  { src: 'public/home-slide-4.jpeg' },
-  { src: 'public/home-slide-5.jpeg' },
+  { src: 'home-slide-1.png' },
+  { src: 'home-slide-2.jpeg' },
+  { src: 'home-slide-3.jpeg' },
+  { src: 'home-slide-4.jpeg' },
+  { src: 'home-slide-5.jpeg' },
 ];
 
 const GalleryStyled = styled.div`
