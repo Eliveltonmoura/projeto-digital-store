@@ -139,12 +139,12 @@ const ProductViewPage = () => {
             </GalleryProduct>
             </div>
               <BuyBox
-                name="tênis Olympikus Eros/165 Branco"
+                name="Tênis Olympikus Eros/165 Branco"
                 reference="3297689"
                 stars={4.6}
                 rating={99}
-                price={400.00}
-                priceDiscount={170.00}
+                price={170.00}
+                priceDiscount={400.00}
                 description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
               >
               <h4>Tamanho</h4>
