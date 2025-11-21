@@ -70,10 +70,6 @@ cd projeto-digital-store
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-## 📜 Licença
-
-Este projeto está sob a licença MIT.
-
 ---
 
 Desenvolvido por **Elivelton Moura** 🔥
