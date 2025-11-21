@@ -4,6 +4,8 @@ Projeto desenvolvido como parte da prática da disciplina **Projeto e Implementa
 
 ## 🚀 Sobre o Projeto
 
+Este projeto foi iniciado utilizando **React + Vite**, buscando alto desempenho, recarregamento rápido e uma estrutura moderna para desenvolvimento frontend.
+
 A **Digital Store** é um site que apresenta uma interface moderna para listagem de produtos, incluindo:
 
 * Página inicial com navegação simples
@@ -25,8 +27,20 @@ projeto-digital-store/
 
 ## 🛠 Tecnologias Utilizadas
 
+* **React**
+
+* **Vite**
+
 * **HTML5**
+
 * **CSS3**
+
+* **JavaScript / TypeScript**
+
+* **HTML5**
+
+* **CSS3**
+
 * **JavaScript / TypeScript**
 
 ## 📦 Como Executar
